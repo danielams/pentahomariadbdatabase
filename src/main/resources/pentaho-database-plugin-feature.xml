@@ -1,0 +1,7 @@
+<features xmlns="http://karaf.apache.org/xmlns/features/v1.0.0">
+
+    <feature name="pentaho-mariadb-database" version="1.0-SNAPSHOT">
+        <bundle>mvn:org.pentaho.community/pentaho-mariadb-database/1.0-SNAPSHOT</bundle>
+    </feature>
+
+</features>
